@@ -2,7 +2,7 @@
 
 This project focuses on detecting fraudulent online transactions using machine learning models. It includes data preprocessing, visualization, and model evaluation.
 
----
+
 
 ## Dataset Description
 
@@ -41,10 +41,15 @@ The dataset contains the following columns:
 
 
 Key Libraries
-pandas
-numpy
-seaborn
-matplotlib
-plotly
-scikit-learn
+## Key Libraries
+
+The following libraries are used in this project:
+
+- **[pandas](https://pandas.pydata.org/)**: For data manipulation and analysis.
+- **[numpy](https://numpy.org/)**: For numerical computations.
+- **[seaborn](https://seaborn.pydata.org/)**: For data visualization.
+- **[matplotlib](https://matplotlib.org/)**: For creating static, animated, and interactive visualizations.
+- **[plotly](https://plotly.com/python/)**: For creating interactive visualizations.
+- **[scikit-learn](https://scikit-learn.org/)**: For machine learning model implementation and evaluation.
+
 
