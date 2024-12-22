@@ -9,6 +9,7 @@ This project focuses on detecting fraudulent online transactions using machine l
 The dataset for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset/data), and it contains the following columns:
 
 
+
 - **step**: Represents a unit of time where 1 step equals 1 hour.
 - **type**: Type of online transaction (e.g., PAYMENT, TRANSFER).
 - **amount**: The amount of the transaction.
