@@ -19,7 +19,7 @@ The dataset contains the following columns:
 - **newbalanceDest**: New balance of the recipient after the transaction.
 - **isFraud**: Indicates if the transaction is fraudulent (1 for Fraud, 0 for No Fraud).
 
----
+
 
 ## Workflow
 
@@ -38,7 +38,7 @@ The dataset contains the following columns:
 ### Fraud Prediction:
 - Predicted fraud status for new transactions.
 
----
+
 
 Key Libraries
 pandas
